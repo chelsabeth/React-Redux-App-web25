@@ -5,7 +5,7 @@ import {
 } from "../actions";
 
 const initialState = {
-    doggos: "",
+    doggos: [],
     isFetching: false,
     error: ""
 }
