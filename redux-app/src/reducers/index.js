@@ -1,9 +1,2 @@
-const initialState = () => {
-
-}
-
-const reducer = (state = initialState, action) => {
-
-}
-
+import reducer from "./doggosReducer";
 export default reducer;
